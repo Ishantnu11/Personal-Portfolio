@@ -10,7 +10,7 @@ const INFO = [
   { label: 'University', value: 'Gurugram University (2023–2027)' },
   { label: 'Location', value: 'Gurugram, Haryana' },
   { label: 'GDG Role', value: 'Tech Team Member' },
-  { label: 'TnP Role', value: 'Student Coordinator' },
+  { label: 'TPO Role', value: 'Student Coordinator' },
 ];
 
 export default function About() {

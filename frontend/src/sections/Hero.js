@@ -134,7 +134,7 @@ export default function Hero() {
 
           <motion.p initial={{ opacity: 0, x: -40 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.65, duration: 0.7 }}
             style={{ fontFamily: 'var(--font-body)', fontSize: '1rem', color: 'var(--text-dim)', lineHeight: 1.7, maxWidth: 480, marginBottom: '2.5rem' }}>
-            B.Tech AI student at Gurugram University. Building <span style={{ color: 'var(--cyan)' }}>RAG-based systems</span>, LLM integrations, and end-to-end ML pipelines. Member of <span style={{ color: 'var(--magenta)' }}>Google Developer Groups</span> on Campus.
+            B.Tech AI student at Gurugram University. Building <span style={{ color: 'var(--cyan)' }}>RAG-based systems</span>, LLM integrations, and end-to-end ML pipelines. Student Coordinator <span style={{ color: 'var(--magenta)' }}>Training & Placement cell</span> Gurugram University.
           </motion.p>
 
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.8, duration: 0.6 }} style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>

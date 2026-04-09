@@ -24,7 +24,7 @@ const TIMELINE = [
     title: 'Tech Team Member',
     org: 'Google Developer Groups (GDG) on Campus',
     location: 'Gurugram University',
-    period: '2023 – Present',
+    period: '2024 – Present',
     points: [
       'Active member of the tech team, contributing to workshops, developer events, and technical initiatives on campus.',
       'Collaborated with peers on open-source projects and technology-driven community building.',
@@ -37,7 +37,7 @@ const TIMELINE = [
     title: 'Student Coordinator',
     org: 'Training and Placement Cell',
     location: 'Gurugram University',
-    period: '2023 – Present',
+    period: '2025 – Present',
     points: [
       'Coordinated placement activities, industry connect sessions, and student-industry interaction events.',
       'Facilitated communication between students and recruiters, supporting successful placement outcomes.',
