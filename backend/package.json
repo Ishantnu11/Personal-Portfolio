@@ -1,7 +1,7 @@
 {
   "name": "ishantnu-portfolio-backend",
   "version": "1.0.0",
-  "description": "Ishantnu Portfolio API",
+  "description": "Ishantnu's Portfolio API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
