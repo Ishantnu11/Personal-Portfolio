@@ -12,6 +12,7 @@ import Projects from './sections/Projects';
 import Experience from './sections/Experience';
 import Contact from './sections/Contact';
 import Footer from './components/Footer';
+import PopupAd from './components/PopupAd';
 
 export default function App() {
   const [loading, setLoading] = useState(true);
@@ -44,6 +45,7 @@ export default function App() {
             <Experience />
             <Contact />
             <Footer />
+            <PopupAd />
           </motion.div>
         )}
       </AnimatePresence>
