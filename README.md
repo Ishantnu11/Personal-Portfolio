@@ -55,11 +55,9 @@ portfolio/
 
 ## 🌐 URLs
 
-| Service   | URL                             |
+| Service   | URL   https://personal-portfolio-1-ltlt.onrender.com                          |
 |-----------|---------------------------------|
-| Frontend  | http://localhost:3000           |
-| Backend   | http://localhost:5000           |
-| API Check | http://localhost:5000/api/health |
+|
 
 ---
 
