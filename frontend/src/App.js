@@ -45,7 +45,7 @@ export default function App() {
             <Experience />
             <Contact />
             <Footer />
-            <PopupAd />
+            
           </motion.div>
         )}
       </AnimatePresence>
